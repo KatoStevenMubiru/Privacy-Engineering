@@ -1,0 +1,21 @@
+1. Proactive not Reactive; Preventative not Remedial:
+What the application does: The application takes a proactive approach to privacy by incorporating privacy features from the beginning. It includes measures like secret ballot generation, redaction of personally identifiable information (PII), and fraud detection during ballot counting.
+Improvement: Continuous monitoring and improvement of privacy features can be implemented. Regularly update and enhance privacy protocols based on emerging threats and technologies.
+2. Privacy as the Default Setting:
+What the application does: The application ensures privacy by default, incorporating privacy features into the core functionality. It emphasizes anonymity in ballot casting, redacts PII from comments, and limits data retention to essential information.
+Improvement: Ensure that any future features or updates also default to privacy-conscious settings. Regularly review and update default settings to align with evolving privacy standards.
+3. Privacy Embedded into Design:
+What the application does: Privacy considerations are embedded into the design, such as the issuance of secret ballots, redaction of PII from comments, and the implementation of fraud detection during ballot counting.
+Improvement: Conduct regular privacy impact assessments during the development lifecycle. Explore opportunities to further integrate privacy measures seamlessly into the application architecture.
+4. Full Functionality — Positive-Sum, not Zero-Sum:
+What the application does: Privacy features are integrated without compromising the functionality of the election system. Voters can securely cast their votes, and fraud detection is implemented without hindering the election process.
+Improvement: Strive for innovative solutions that enhance both functionality and privacy. Regularly seek feedback from users to balance usability with privacy requirements.
+5. End-to-End Security — Full Lifecycle Protection:
+What the application does: The application considers privacy and security throughout the entire lifecycle, from ballot issuance to counting. It implements measures like secret ballot generation, PII redaction, and fraud detection.
+Improvement: Regularly update security protocols to address emerging threats. Consider additional encryption measures and data anonymization techniques to enhance end-to-end protection.
+6. Visibility and Transparency — Keep it Open:
+What the application does: The application maintains transparency by informing voters about the anonymity of their ballots, the redaction of PII from comments, and the consequences of fraud detection.
+Improvement: Enhance transparency by providing users with detailed information about how their data is handled, stored, and secured. Implement features like privacy dashboards to give users insight into their privacy settings.
+7. Respect for User Privacy — Keep it User-Centric:
+What the application does: The application respects user privacy by allowing them to cast secret ballots, redact PII from comments, and informing them about the consequences of fraud detection.
+Improvement: Implement more user-centric features, such as allowing users to easily access and manage their data. Provide clear and accessible privacy policies to ensure users understand how their data is handled.
